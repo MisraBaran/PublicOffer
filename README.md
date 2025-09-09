@@ -22,7 +22,7 @@ Kullanıcıdan halka arz dosyası ve dağıtım özellikleri alınarak, katılı
 - `resources/` → Konfigürasyon ve yardımcı dosyalar  
 - `db/` → Veritabanı şemaları veya SQL scriptleri  
 
-## ⚙ Kurulum ve Çalıştırma
+## Kurulum ve Çalıştırma
 
 1. Repoyu klonlayın:
    ```bash
